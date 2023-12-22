@@ -6,12 +6,6 @@
     <title>My PHP Page</title>
 </head>
 <body>
-
-<?php
-    // PHP code goes here
-    $message = "Hello, World!";
-    echo "<h1>$message</h1>";
-?>
-
+<h1>adasdasdas</h1>
 </body>
 </html>
